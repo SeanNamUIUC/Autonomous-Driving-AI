@@ -9,3 +9,6 @@ __pycache__/
 
 # 대용량 자율주행 데이터셋 (깃허브 업로드 방지)
 2_data_pipeline/kitti_dataset/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
