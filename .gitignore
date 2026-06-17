@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cuda & Colab checkpoints
+.ipynb_checkpoints/
+.virtualenv/
+
+# 대용량 자율주행 데이터셋 (깃허브 업로드 방지)
+2_data_pipeline/kitti_dataset/
